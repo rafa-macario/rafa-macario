@@ -65,30 +65,23 @@ Estou na metade da jornada acadêmica e encaro cada projeto como uma oportunidad
 
 ## 🧩 Foco atual
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'fontFamily':'Fira Code, monospace','primaryColor':'#161b22','primaryTextColor':'#c9d1d9','primaryBorderColor':'#22d3ee','lineColor':'#22d3ee'}}}%%
-graph LR
-    R(("Rafa Macário<br/>FIAP · 2º ano")):::root
-
-    R --> F["🎯 Foco"]:::branch
-    R --> A["📈 Aprofundando"]:::branch
-    R --> O["🚀 Objetivo"]:::branch
-
-    F --> F1["Desenvolvimento Front-end"]:::leaf
-    F --> F2["Interfaces modernas"]:::leaf
-    F --> F3["Experiência do usuário"]:::leaf
-
-    A --> A1["React"]:::leaf
-    A --> A2["TypeScript"]:::leaf
-    A --> A3["Next.js"]:::leaf
-    A --> A4["Arquitetura de aplicações"]:::leaf
-
-    O --> O1["Produtos digitais claros e marcantes"]:::leaf
-
-    classDef root fill:#22d3ee,stroke:#0d1117,stroke-width:2px,color:#0d1117,font-weight:bold
-    classDef branch fill:#1f2937,stroke:#22d3ee,stroke-width:1.5px,color:#22d3ee,font-weight:bold
-    classDef leaf fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-```
+<table>
+  <tr>
+    <td align="center">🎯</td>
+    <td><b>Foco</b></td>
+    <td>Front-end&nbsp; ·&nbsp; Interfaces modernas&nbsp; ·&nbsp; Experiência do usuário</td>
+  </tr>
+  <tr>
+    <td align="center">📈</td>
+    <td><b>Aprofundando</b></td>
+    <td>React&nbsp; ·&nbsp; TypeScript&nbsp; ·&nbsp; Next.js&nbsp; ·&nbsp; Arquitetura de aplicações</td>
+  </tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td><b>Objetivo</b></td>
+    <td>Transformar boas ideias em produtos digitais claros e marcantes</td>
+  </tr>
+</table>
 
 ## 📚 Em constante evolução
 
@@ -117,4 +110,3 @@ Estou sempre aberto a novas ideias, colaborações e oportunidades de aprendizad
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
-
