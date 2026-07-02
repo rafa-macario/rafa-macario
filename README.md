@@ -94,21 +94,6 @@ Ainda estou na metade da graduação, então boa parte do meu foco hoje é **apr
 
 ---
 
-## 📊 GitHub em números
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafa-macario&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-macario&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafa-macario&hide_border=true&background=0d1117&stroke=1f2937&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-</div>
-
----
-
 ## 🤝 Vamos conversar
 
 Estou sempre aberto a novas ideias, colaborações e oportunidades de aprendizado.
