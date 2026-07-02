@@ -33,8 +33,6 @@ Estou na metade da jornada acadêmica e encaro cada projeto como uma oportunidad
 
 ---
 
----
-
 ## 🚀 Tecnologias com que já tive contato
 
 > Ainda não domino todas, mas tenho noções e sigo evoluindo em cada uma delas ao longo da faculdade.
