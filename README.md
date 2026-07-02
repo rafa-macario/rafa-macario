@@ -82,6 +82,7 @@ const rafaMacario = {
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
@@ -119,6 +120,15 @@ Estou sempre aberto a novas ideias, colaborações e oportunidades de aprendizad
 [![Gmail](https://img.shields.io/badge/xmacario09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xmacario09@gmail.com)
 [![GitHub](https://img.shields.io/badge/@rafa--macario-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafa-macario)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO) -->
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
+
 
 </div>
 
