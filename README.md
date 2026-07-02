@@ -33,27 +33,6 @@ Estou na metade da jornada acadêmica e encaro cada projeto como uma oportunidad
 
 ---
 
-## 🧩 Foco atual
-
-```js
-const rafaMacario = {
-  formacao: "Tecnologia · FIAP (2º ano)",
-  foco: [
-    "Desenvolvimento Front-end",
-    "Interfaces modernas",
-    "Experiência do usuário",
-  ],
-  aprofundando: [
-    "React",
-    "TypeScript",
-    "Next.js",
-    "Arquitetura de aplicações",
-  ],
-  mentalidade: "Em constante evolução",
-  objetivo: "Transformar boas ideias em produtos digitais marcantes",
-};
-```
-
 ---
 
 ## 🚀 Tecnologias com que já tive contato
@@ -85,6 +64,27 @@ const rafaMacario = {
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
+
+## 🧩 Foco atual
+
+```js
+const rafaMacario = {
+  formacao: "Tecnologia · FIAP (2º ano)",
+  foco: [
+    "Desenvolvimento Front-end",
+    "Interfaces modernas",
+    "Experiência do usuário",
+  ],
+  aprofundando: [
+    "React",
+    "TypeScript",
+    "Next.js",
+    "Arquitetura de aplicações",
+  ],
+  mentalidade: "Em constante evolução",
+  objetivo: "Transformar boas ideias em produtos digitais marcantes",
+};
+```
 
 ## 📚 Em constante evolução
 
